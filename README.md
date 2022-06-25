@@ -5,8 +5,8 @@
 
 **MAIN ROUTES:**
 
-<strong>POST: <strong> `https://node-mutants-level-2-fpf.herokuapp.com/mutants` (<strong>To verify DNA<strong>) <br/> 
-<strong>GET: <strong> `https://node-mutants-level-2-fpf.herokuapp.com/stats` (<strong>To show STATS<strong>)
+<strong>POST: <strong> `https://node-mutants-level-3-fpf.herokuapp.com/mutants` (<strong>To verify DNA<strong>) <br/> 
+<strong>GET: <strong> `https://node-mutants-level-3-fpf.herokuapp.com/stats` (<strong>To show STATS<strong>)
 
 
 *  **URL Params**
