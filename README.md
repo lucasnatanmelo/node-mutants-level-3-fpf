@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **<strong>DNA VERIFIER - HUMAN OR MUTANT + STATS - API<strong>**
 ----
   **API to verify if data sent is a human or mutant DNA and return quantity values of Humans, Mutants and ratio.** <br/>
