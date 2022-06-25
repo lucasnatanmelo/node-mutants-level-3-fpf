@@ -15,9 +15,7 @@ class Controller {
         const {dna} = req.body;
 
         const result = hasMutation(dnaObject); 
-
-        console.log("Result: ", result);
-
+        
         if(typeof result  === 'boolean'){
             try{ 
                 await pool.query(
